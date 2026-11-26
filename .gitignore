@@ -1,0 +1,18 @@
+# Logs
+../logs/
+*.log
+
+# Databases
+../database/
+*.db
+*.sqlite
+
+# Uploaded prints
+../gcodes/
+
+# Cache
+*.tmp
+.cache/
+
+# Moonraker backups
+*.bak
